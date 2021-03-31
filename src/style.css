@@ -1,0 +1,26 @@
+.container {
+  border: 1px solid;
+  border-radius: 10px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  padding: 20px;
+  margin: 20px;
+  max-width: 700px;
+}
+h1 {
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+.col-3 {
+  font-size: 30px;
+}
+.col-2 {
+  font-size: 25px;
+}
+.weather {
+  font-size: 75px;
+}
+.temperature {
+  font-size: 70px;
+}
